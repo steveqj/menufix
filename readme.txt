@@ -1,0 +1,1 @@
+A simple jQuery plugin for creating menus that stay fixed in position when the user scrolls to a certain position
